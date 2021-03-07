@@ -1,0 +1,51 @@
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\bin\Debug\sikeru.exe.config
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\bin\Debug\sikeru.exe
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\bin\Debug\sikeru.pdb
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\bin\Debug\sikeru.xml
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.login.resources
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.main.resources
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.Resources.resources
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.vbproj.GenerateResource.Cache
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.exe
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.xml
+C:\Users\Wahyu\AppData\Local\Temporary Projects\sikeru\obj\Debug\sikeru.pdb
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\bin\Debug\sikeru.exe.config
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.exe
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.xml
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.pdb
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\bin\Debug\sikeru.exe
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\bin\Debug\sikeru.pdb
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\bin\Debug\sikeru.xml
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.login.resources
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.main.resources
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.Resources.resources
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.user.resources
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.vbproj.GenerateResource.Cache
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.userDetail.resources
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\bin\Debug\Interop.AXVLC.dll
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\Interop.AXVLC.dll
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.vbproj.ResolveComReference.cache
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.registrasi.resources
+C:\Users\Wahyu\Documents\Visual Studio 2012\Projects\sikeru\sikeru\obj\Debug\sikeru.TransGate.resources
+D:\sikeru - Copy\sikeru\bin\Debug\sikeru.exe.config
+D:\sikeru - Copy\sikeru\bin\Debug\sikeru.exe
+D:\sikeru - Copy\sikeru\bin\Debug\sikeru.pdb
+D:\sikeru - Copy\sikeru\bin\Debug\sikeru.xml
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.vbproj.ResolveComReference.cache
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.GantiPass.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.Laporan.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.login.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.main1.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.Resources.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.RegDetail.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.registrasi.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.RegTamu.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.Setting.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.user.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.userDetail.resources
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.vbproj.GenerateResource.Cache
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.exe
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.xml
+D:\sikeru - Copy\sikeru\obj\Debug\sikeru.pdb
